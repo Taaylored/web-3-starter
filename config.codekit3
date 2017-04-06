@@ -29,6 +29,17 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/img\/menu.png": {
+		"ft": 32768,
+		"iS": 4410,
+		"oA": 0,
+		"oAP": "\/img\/menu.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
