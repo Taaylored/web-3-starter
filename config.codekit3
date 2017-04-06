@@ -1402,12 +1402,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index.html",
-		"oF": 0
-		},
 	"\/js\/scripts-min.js": {
 		"ft": 64,
 		"mi": 1,
