@@ -1,3 +1,4 @@
-// Scripts
+// @codekit-prepend "jquery.js";
+// @codekit-prepend "semantic.js";
 
-console.log('hello world!')
+console.log('Hello, World!');
