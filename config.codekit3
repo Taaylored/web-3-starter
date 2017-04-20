@@ -21,11 +21,11 @@
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 1,
 		"oAP": "\/build\/css\/_semantic.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/css\/styles.scss": {
@@ -93,97 +93,97 @@
 		"oAP": "\/build\/html\/scripts.html",
 		"oF": 0
 		},
-	"\/img\/favicon\/android-chrome-192x192.png": {
+	"\/img\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 53906,
+		"iS": 39826,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicon\/android-chrome-192x192.png",
+		"oAP": "\/build\/img\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/favicon\/android-chrome-512x512.png": {
+	"\/img\/favicons\/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 312063,
+		"iS": 223203,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicon\/android-chrome-512x512.png",
+		"oAP": "\/build\/img\/favicons\/android-chrome-512x512.png",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/favicon\/apple-touch-icon.png": {
+	"\/img\/favicons\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 47589,
+		"iS": 35625,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicon\/apple-touch-icon.png",
+		"oAP": "\/build\/img\/favicons\/apple-touch-icon.png",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/favicon\/browserconfig.xml": {
+	"\/img\/favicons\/browserconfig.xml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/img\/favicon\/browserconfig.xml",
+		"oAP": "\/build\/img\/favicons\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/img\/favicon\/favicon-16x16.png": {
+	"\/img\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 1374,
+		"iS": 1237,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicon\/favicon-16x16.png",
+		"oAP": "\/build\/img\/favicons\/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/favicon\/favicon-32x32.png": {
+	"\/img\/favicons\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 2549,
+		"iS": 2272,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicon\/favicon-32x32.png",
+		"oAP": "\/build\/img\/favicons\/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/favicon\/favicon.ico": {
+	"\/img\/favicons\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/img\/favicon\/favicon.ico",
+		"oAP": "\/build\/img\/favicons\/favicon.ico",
 		"oF": 0
 		},
-	"\/img\/favicon\/manifest.json": {
+	"\/img\/favicons\/manifest.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/build\/img\/favicon\/manifest-min.json",
+		"oAP": "\/build\/img\/favicons\/manifest-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/img\/favicon\/mstile-150x150.png": {
+	"\/img\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 27441,
+		"iS": 20590,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicon\/mstile-150x150.png",
+		"oAP": "\/build\/img\/favicons\/mstile-150x150.png",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/favicon\/safari-pinned-tab.svg": {
+	"\/img\/favicons\/safari-pinned-tab.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/build\/img\/favicon\/safari-pinned-tab.svg",
+		"oAP": "\/build\/img\/favicons\/safari-pinned-tab.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -191,7 +191,7 @@
 		},
 	"\/img\/menu.png": {
 		"ft": 32768,
-		"iS": 168,
+		"iS": 598,
 		"oA": 0,
 		"oAP": "\/build\/img\/menu.png",
 		"oF": 0,
@@ -210,25 +210,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/build\/js\/jquery-min.js",
+		"oAP": "\/build\/js\/jquery.js",
 		"oF": 0,
 		"sC": 0,
-		"tS": 0
-		},
-	"\/js\/scripts-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/build\/js\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 1,
 		"tS": 0
 		},
 	"\/js\/scripts.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/js\/scripts-min.js",
+		"oAP": "\/build\/js\/scripts.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -237,7 +228,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/build\/js\/semantic-min.js",
+		"oAP": "\/build\/js\/semantic.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -252,7 +243,7 @@
 	"displayValue": "web-3-starter",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 514237180
+	"lastBuiltDate": 514247126
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1033,7 +1024,7 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 0,
+			"active": 1,
 			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
 			},
 		"no-extra-semi": {
@@ -1053,7 +1044,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 1,
+			"active": 0,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -1261,7 +1252,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -1289,7 +1280,7 @@
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -1345,12 +1336,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -1369,7 +1360,7 @@
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -1505,7 +1496,7 @@
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -1620,7 +1611,7 @@
 			"flagValue": -1
 			},
 		"bitwise": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"boss": {
@@ -1628,7 +1619,7 @@
 			"flagValue": -1
 			},
 		"browser": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"browserify": {
@@ -1644,7 +1635,7 @@
 			"flagValue": -1
 			},
 		"curly": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"debug": {
@@ -1660,11 +1651,11 @@
 			"flagValue": -1
 			},
 		"elision": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eqeqeq": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eqnull": {
@@ -1692,7 +1683,7 @@
 			"flagValue": -1
 			},
 		"freeze": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"funcscope": {
@@ -1724,7 +1715,7 @@
 			"flagValue": -1
 			},
 		"jquery": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"lastsemic": {
@@ -1732,7 +1723,7 @@
 			"flagValue": -1
 			},
 		"latedef": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"laxbreak": {
@@ -1784,11 +1775,11 @@
 			"flagValue": -1
 			},
 		"newcap": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"noarg": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"nocomma": {
@@ -1808,7 +1799,7 @@
 			"flagValue": -1
 			},
 		"nonew": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"nonstandard": {
@@ -1816,7 +1807,7 @@
 			"flagValue": -1
 			},
 		"notypeof": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"noyield": {
@@ -1848,7 +1839,7 @@
 			"flagValue": -1
 			},
 		"regexp": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"rhino": {
@@ -1888,11 +1879,11 @@
 			"flagValue": -1
 			},
 		"undef": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"unused": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"varstmt": {
@@ -1976,7 +1967,7 @@
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathFilenamePattern": "*.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
@@ -2020,14 +2011,14 @@
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputPathFilenamePattern": "*.js",
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 1,
+		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
@@ -2122,10 +2113,10 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 0,
+		"outputStyle": 3,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 1
